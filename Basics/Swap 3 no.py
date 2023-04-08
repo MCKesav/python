@@ -1,0 +1,9 @@
+a=4
+b=5
+c=3
+temp=0
+temp=b
+b=a
+a=c
+c=temp
+print(a,b,c)
